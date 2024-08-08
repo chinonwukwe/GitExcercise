@@ -1,1 +1,2 @@
 Lysozyme Mouse LYZ1_MOUSE P17897 148
+Hemoglobin-alpha HUMAN HBA_HUMAN P69905 142
